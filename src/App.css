@@ -39,7 +39,7 @@
 
 .nav{
   display:flex;
-  background-color:#312e2e;
+  /* background-color:#312e2e; */
   margin: 0;
 }
 .nav-ele{
@@ -48,7 +48,7 @@
 }
 a{
   text-decoration: none;
-  color: white;
+  /* color: white; */
 }
 /* .nav-ele:hover{
   background-color:rgb(195, 162, 14);
